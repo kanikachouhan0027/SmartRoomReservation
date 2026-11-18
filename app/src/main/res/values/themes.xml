@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.SmartRoom" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/brand_dark</item>
+        <item name="android:colorAccent">#3949AB</item>
+        <item name="android:colorPrimary">#3949AB</item>
+    </style>
+</resources>
